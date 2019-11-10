@@ -15,3 +15,5 @@ Currently updating as I am still working on a few websites
 5. Drum kit website in HTML/CSS/JavaScript: https://seowglen.github.io/drum-kit/
 
 6. Piano kit website in HTML/CSS/JavaScript: https://seowglen.github.io/piano-kit/
+
+7. Simon game website created with Javascript/jQuery: https://seowglen.github.io/simon-game/
