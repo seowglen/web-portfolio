@@ -4,7 +4,7 @@ Websites are ranked from the most recent to the least recently created.
 
 All repositories can be found here: https://github.com/seowglen/repositories
 
-1. Newsletter MailChimp website created with Node/Express.js, deployed via Heroku: https://whispering-thicket-43257.herokuapp.com/
+1. Newsletter website using MailChimp API. Created with Node/Express.js, deployed via Heroku: https://whispering-thicket-43257.herokuapp.com/
 
 2. Simon game website created with Javascript/jQuery: https://seowglen.github.io/simon-game/
 
