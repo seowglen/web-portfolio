@@ -10,7 +10,7 @@ All repositories can be found here: https://github.com/seowglen/repositories
 2. To-Do-List website. Frontend: HTML/CSS. Backend: Node/Express.js, EJS, MongoDB. Deployed and hosted via MongoDB Atlas and Heroku:
    https://still-citadel-87731.herokuapp.com/
 
-3. Newsletter website using MailChimp API. Created with Node/Express.js, deployed and hosted via Heroku: 
+3. Newsletter Sign-in website using MailChimp API. Created with Node/Express.js, deployed and hosted via Heroku: 
    https://whispering-thicket-43257.herokuapp.com/
 
 4. Simon game website created with Javascript/jQuery: https://seowglen.github.io/simon-game/
