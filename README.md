@@ -8,8 +8,7 @@ All repositories can be found here: https://github.com/seowglen/repositories
    https://crwn-cloth-pte-ltd.herokuapp.com/
 
 2. Secrets/Confessions website, built for users to submit secrets/confessions anonymously. Frontend: HTML/CSS, JavaScript, Bootstrap. 
-   Backend: Node/Express.js, EJS, MongoDB. Implemented Passport.js, Google OAuth 2.0 for registering/logging-in/authenticating users.
-   Deployed and hosted via MongoDB Atlas and Heroku:
+   Backend: Node/Express.js, EJS, MongoDB. Authentication: Passport.js, Google OAuth 2.0. Deployed and hosted via MongoDB Atlas and        Heroku:
    https://boiling-fjord-39909.herokuapp.com/
 
 3. Music Blog website. Frontend: HTML/CSS, JavaScript, Bootstrap. Backend: Node/Express.js, EJS, MongoDB. Deployed and hosted via          MongoDB Atlas and Heroku:
