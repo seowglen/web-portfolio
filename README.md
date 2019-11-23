@@ -4,7 +4,7 @@ Websites are ranked from the most recent to the least recently created.
 
 All repositories can be found here: https://github.com/seowglen/repositories
 
-1. E-commerce clothing/fashion website (frontend). Frontend: React.js, React-Redux, React-Router-DOM. Backend: Google Firebase. Deployed    and hosted via Heroku:
+1. E-commerce clothing/fashion website (frontend). Frontend: React.js, React-Redux, React-Router-DOM. Implemented Google Firebase for      authenticating users. Deployed and hosted via Heroku:
    https://crwn-cloth-pte-ltd.herokuapp.com/
 
 2. Secrets/Confessions website, built for users to submit secrets/confessions anonymously. Frontend: HTML/CSS, JavaScript, Bootstrap. 
