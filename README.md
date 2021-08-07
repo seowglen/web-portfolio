@@ -4,7 +4,7 @@ Websites are ranked from the most recent to the least recently created.
 
 All repositories can be found here: https://github.com/seowglen/repositories
 
-1. CoFriends (Full Stack). An interest group based social platform. Frontend: HTML/CSS, JavaScript, React, Node, Express, Socket-IO, PostgreSQL, NGINX, AWS. https://cofriends.co
+1. CoFriends (Full Stack). An interest group based social platform. Frontend: HTML/CSS, JavaScript, React, Node, Express, Socket-IO, PostgreSQL. Deployed and hosted on AWS using NGINX. https://cofriends.co
 
 2. E-commerce clothing/fashion website (frontend). Frontend: React.js, React-Redux, React-Router-DOM. Backend/Authentication: Google        Firebase. Payment processing: Stripe API. Deployed and hosted via Heroku:
    https://crwn-cloth-pte-ltd.herokuapp.com/
